@@ -4,7 +4,7 @@
 	padding: 0;
 }
 body{
-	background-image: url('../img/fundo.png');
+	background-image: url('../img/fundo.PNG');
 	font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
 	min-width: 1367px;	
 }
