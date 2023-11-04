@@ -407,6 +407,9 @@ footer{
 /* Dispositivos Menores que um Desktops */
 
 @media screen and (min-width: 240px) and (max-width: 1366px){
+	body{
+		min-width: 0px;
+	}
 	header>nav>img{
 		width: 25%;	
 		float: none;
