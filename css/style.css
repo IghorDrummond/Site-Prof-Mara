@@ -451,6 +451,7 @@ footer{
 		height: auto;
 	}
 	.titulo{
+		background-size: 100% 100%;
 		font-size: 1em;
 	}
 	#colunas>div{
